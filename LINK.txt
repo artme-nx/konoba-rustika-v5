@@ -1,0 +1,8 @@
+Stranica online (GitHub Pages):
+https://artme-nx.github.io/konoba-rustika-v5/
+
+Repozitorij:
+https://github.com/artme-nx/konoba-rustika-v5
+
+Objavljeno: 2026-07-11
+Deploy: gh-pages branch (statički export iz `npm run build` → out/)
