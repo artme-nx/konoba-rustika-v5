@@ -1,0 +1,9 @@
+:HL["/konoba-rustika-v5/_next/static/chunks/2675ott-wynp6.css","style"]
+:HL["/konoba-rustika-v5/_next/static/media/0494568ab28b6008-s.p.421v1u00lnp2a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/konoba-rustika-v5/_next/static/media/23f1a98b08006014-s.p.0s5mkn35-hrc5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/konoba-rustika-v5/_next/static/media/47df9ba1c7236d3b-s.p.137759vg1sbmi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/konoba-rustika-v5/_next/static/media/54fc36028e2bb174-s.p.20jfceqj9zyw9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/konoba-rustika-v5/_next/static/media/66b33cc02d8f8b9d-s.p.3slq8sz4zhb1g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/konoba-rustika-v5/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/konoba-rustika-v5/_next/static/media/e285ad1a914469f0-s.p.15241mr5-1s6i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Er6_9fwzIaA2rMDbaKjsF"}
