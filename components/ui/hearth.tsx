@@ -11,18 +11,19 @@ const DISHES = [
   {
     group: "S mora",
     items: [
-      { name: "Tuna steak s blitvom", note: "svježa tuna, ugrijana s domaćom blitvom" },
-      { name: "Riba dana", note: "ulov po dolasku broda — pitajte konobara" },
-      { name: "Školjke i lignje", note: "s roštilja ili na buzaru" },
+      { name: "Tuna steak", note: "s blitvom i krumpirom" },
+      { name: "Riblja plata za dvoje", note: "izbor ribe s gradela, za podijeliti" },
+      { name: "Školjke i lignje", note: "lignje s gradela ili fritane, školjke na buzaru" },
+      { name: "Tjestenina s plodovima mora", note: "gosti je izdvajaju u recenzijama" },
     ],
   },
   {
-    group: "S roštilja i peke",
+    group: "S gradela i ispod peke",
     items: [
-      { name: "Pečena govedina", note: "polagano pečena, dalmatinski način" },
-      { name: "Ćevapi i rebarca", note: "s roštilja, uz domaći umak" },
-      { name: "Dobrada", note: "tradicionalna dalmatinska iznutrica" },
-      { name: "Peka", note: "meso ili hobotnica ispod peke — najava dan ranije" },
+      { name: "Ćevapi s lepinjom", note: "najčešće naručeno jelo kuće" },
+      { name: "Mješano meso s gradela", note: "za veći apetit" },
+      { name: "Odrezak s gradela", note: "uz domaći krumpir" },
+      { name: "Ispod peke", note: "hobotnica, teletina ili janjetina — najava dan ranije" },
     ],
   },
 ];
@@ -63,7 +64,7 @@ export function Hearth() {
 
   return (
     <>
-      <BeamDivider levelNumber="02" label="Ognjište" />
+      <BeamDivider levelNumber="02" label="Gradele i peka" />
       <section id="ognjiste" ref={sectionRef} className="w-full bg-background px-6 py-20 text-foreground md:px-16 lg:px-24 xl:px-32">
         <div className="flex flex-col items-center text-center">
           <div
@@ -108,7 +109,8 @@ export function Hearth() {
         </div>
 
         <p className="text-label mt-14 text-center text-foreground/45">
-          Cijene u srednjem rangu za Vodice — točan jelovnik i cijene na upit na +385 92 167 0225
+          Za jela ispod peke javite se dan ranije — kuhaju se satima. Jelovnik i
+          cijene na upit na +385 91 1644 863
         </p>
       </section>
     </>

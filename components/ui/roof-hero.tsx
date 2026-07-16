@@ -85,17 +85,16 @@ export function RoofHero() {
         </h1>
 
         <p data-facade-in className="mt-6 max-w-xl text-base leading-relaxed text-foreground/80 md:text-lg">
-          Obiteljska konoba u staroj kamenoj kući u Vodicama — topla atmosfera
-          zaboravljenog vremena, puna okusa dalmatinske kuhinje iz bakine
-          kuharice. Svježa riba, roštilj i domaće vino, svaki dan.
+          Konoba u kamenoj uličici u Vodicama — stolovi vani, pod fenjerima.
+          Jela ispod peke, riba i meso s gradela, svaki dan od 17 sati.
         </p>
 
         <div data-facade-in className="mt-9 flex flex-wrap items-center gap-4">
           <a
-            href="tel:+385921670225"
+            href="tel:+385911644863"
             className="text-label bg-primary px-7 py-3.5 text-primary-foreground transition-colors duration-(--duration-micro) hover:bg-[var(--button-primary-hover-bg)]"
           >
-            Rezervacija — +385 92 167 0225
+            Rezervacija — +385 91 1644 863
           </a>
           <a
             href="#ognjiste"
@@ -115,7 +114,7 @@ export function RoofHero() {
           </div>
           <div>
             <dt className="text-foreground/45">Radno vrijeme</dt>
-            <dd className="mt-1 normal-case">Svaki dan 16–24h</dd>
+            <dd className="mt-1 normal-case">Svaki dan 17:00–01:00</dd>
           </div>
           <div>
             <dt className="text-foreground/45">Kuhinja</dt>

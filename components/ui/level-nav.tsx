@@ -9,7 +9,7 @@ gsap.registerPlugin(ScrollTrigger);
 export const LEVELS = [
   { id: "krov", tag: "R", label: "Krov" },
   { id: "gostionica", tag: "01", label: "Gostionica" },
-  { id: "ognjiste", tag: "02", label: "Ognjište" },
+  { id: "ognjiste", tag: "02", label: "Gradele i peka" },
   { id: "podrum", tag: "03", label: "Podrum" },
   { id: "dvoriste", tag: "04", label: "Dvorište" },
   { id: "temelji", tag: "T", label: "Temelji" },

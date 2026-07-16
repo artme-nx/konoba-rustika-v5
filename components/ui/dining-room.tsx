@@ -10,18 +10,18 @@ gsap.registerPlugin(ScrollTrigger);
 const PILLARS = [
   {
     tag: "01",
-    title: "Obiteljska kuća",
-    text: "Konobu vode domaćini osobno — od nabave svježe ribe i mesa ujutro do posluge navečer.",
+    title: "Domaćini za stolom",
+    text: "Konobu vode domaćini osobno — gosti ih u recenzijama redovito izdvajaju kao razlog povratka.",
   },
   {
     tag: "02",
-    title: "Bakine recepture",
-    text: "Jela po tradicionalnim dalmatinskim receptima, onako kako se u ovoj kući kuhalo generacijama.",
+    title: "Peka je potpis kuće",
+    text: "Hobotnica, teletina i janjetina ispod peke — kuhaju se satima, pa se najavljuju dan ranije.",
   },
   {
     tag: "03",
-    title: "Stara kamena kuća",
-    text: "Rustični interijer stare kuće u Vodicama čuva ugođaj ribarskog i seoskog doba ovog kraja.",
+    title: "Stolovi u kamenoj uličici",
+    text: "Sjedi se vani, u kamenom kantunu pod fenjerima — zaklonjeno od vreve rive.",
   },
 ];
 
@@ -59,13 +59,12 @@ export function DiningRoom() {
           <div className="md:pr-12">
             <p className="text-label text-ember">Razina 01 — Prizemlje</p>
             <h2 className="font-display mt-4 text-4xl leading-tight font-light md:text-5xl">
-              Konoba kakve je nekad bilo
+              Korak od rive, a drugi svijet
             </h2>
             <p className="mt-6 max-w-md text-base leading-relaxed text-foreground/75">
-              Vodice imaju more restorana na rivi — Rustika je ona kuća malo
-              dalje od nje, gdje se jede kao kod bake: bez žurbe, s domaćinima
-              koji vas dočekaju osobno i pobrinu se da nitko ne ostane
-              gladan.
+              Vodice imaju more restorana na rivi — Rustika je u kamenoj uličici
+              malo dalje: stolovi vani pod fenjerima, bez žurbe, s domaćinima
+              koji vas dočekaju osobno.
             </p>
           </div>
 

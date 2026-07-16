@@ -21,9 +21,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Konoba Rustika — Vodice | Dalmatinska kuhinja iz bakine kuhinje",
+  title: "Konoba Rustika — Vodice | Jela ispod peke, riba i meso s gradela",
   description:
-    "Konoba Rustika, Vodice — obiteljska konoba u staroj kamenoj kući. Svježa riba, tuna steak s blitvom, roštilj, peka i domaće vino. Ul. Kamila Pamukovića 5, otvoreno svaki dan 16–24h.",
+    "Konoba Rustika, Vodice — stolovi u kamenoj uličici pod fenjerima. Jela ispod peke (hobotnica, teletina, janjetina), riba i meso s gradela, vino kuće. Ul. Kamila Pamukovića 5, svaki dan 17:00–01:00.",
 };
 
 export default function RootLayout({

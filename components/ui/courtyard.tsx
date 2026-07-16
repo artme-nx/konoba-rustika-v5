@@ -10,17 +10,18 @@ gsap.registerPlugin(ScrollTrigger);
 const REVIEWS = [
   {
     quote:
-      "Osjećaš se kao dio obitelji — domaćini vas dočekaju osobno i pobrinu se da odete siti.",
-    meta: "Gost, Google recenzija",
+      "Peka je bila stvarno vrhunska – savršeno pripremljena, sočna i puna okusa. Osoblje izuzetno ljubazno i uslužno.",
+    meta: "Šime Grgurev · Google recenzija",
   },
   {
     quote:
-      "Izdašne porcije, svježa riba i meso svaki dan, te kućno vino koje se pamti.",
-    meta: "Gost, TripAdvisor",
+      "Odlična hrana, ugodna atmosfera i vrlo ljubazno osoblje. Svakako preporučujem svima koji posjete Vodice!",
+    meta: "Stipe Zeljak · Google recenzija",
   },
   {
-    quote: "Topla, autentična konoba — pravi dalmatinski ugođaj, bez kompromisa.",
-    meta: "Gost, TripAdvisor",
+    quote:
+      "Odlična hrana, ugodna atmosfera i jako ljubazan konobar. Za sve što je pripremljeno vidi se da je svježe.",
+    meta: "Ivan Dominković · Google recenzija",
   },
 ];
 
@@ -65,8 +66,8 @@ export function Courtyard() {
             Večeri pod vodičkim nebom
           </h2>
           <p className="mt-5 max-w-lg text-base leading-relaxed text-foreground/75">
-            Ocjena 4,6/5 na Googleu i preko 500 recenzija na TripAdvisoru —
-            gosti se najčešće vraćaju zbog gostoljubivosti i punog tanjura.
+            Ocjena 4,6 na Googleu iz 368 recenzija — gosti najčešće spominju
+            peku, gostoljubivost i pun tanjur.
           </p>
         </div>
 

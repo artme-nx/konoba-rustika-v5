@@ -55,20 +55,20 @@ export function Cellar() {
         <div className="text-center">
           <p className="text-label text-ember">Razina 03 — Podrum</p>
           <h2 className="font-display mt-3 text-4xl leading-tight font-light text-foreground md:text-5xl">
-            Vino iz kamene klijeti
+            Vino i desert kuće
           </h2>
         </div>
 
         <div className="mt-16 grid gap-6 sm:grid-cols-2">
           {[
             {
-              title: "Kućno vino",
-              text: "Domaće bijelo i crno vino iz podruma, poslužuje se uz svako jelo — konobari rado predlože sklad uz ribu ili meso.",
+              title: "Vino kuće",
+              text: "Domaće bijelo i crno vino kuće, uz ribu ili meso — gosti ga u recenzijama izdvajaju posebno.",
               tone: "wine",
             },
             {
-              title: "Kolač od smokava",
-              text: "Deserti kuće završavaju obrokom onako kako se u dalmatinskim konobama oduvijek završavalo — domaćim kolačem od suhih smokava.",
+              title: "Palačinke s Nutellom",
+              text: "Za kraj, klasik koji naruči i pola stola — palačinke s Nutellom.",
               tone: "timber",
             },
           ].map((card) => (
